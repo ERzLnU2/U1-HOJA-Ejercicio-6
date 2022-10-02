@@ -43,4 +43,7 @@ public class Ejercicio6_DAW120 {
     }
 }
 ```
+![666](https://user-images.githubusercontent.com/80227002/193478348-bf65e80b-c315-4bd5-b460-d693a7da268a.png)
+
 ![666](https://user-images.githubusercontent.com/80227002/193478312-1c235379-30c8-4377-a2f5-5927bb82a5c8.png)
+
